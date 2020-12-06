@@ -13,7 +13,7 @@
     <a href=https://alexgarbiak.com target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Falexgarbiak.com" alt="Alexander Garbiak | Website" /></a>
 </p>
 
-- 🔭 I’m currently messing around with `R` as well as web dev - latest project on [Turing machines in R](https://github.com/agarbiak/tuRingMachine) is based on Roger Penrose's book [The Emperor's New Mind](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
+- 🔭 I’m currently messing around with `R` as well as [`Next.js`](https://nextjs.org/) - latest project on [Turing machines in R](https://github.com/agarbiak/tuRingMachine) is based on Roger Penrose's book [The Emperor's New Mind](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
 
 - 👨‍💻 My projects are available at the [agarbiak](https://github.com/agarbiak?tab=repositories) and [alexgarbiak](https://github.com/alexgarbiak?tab=repositories) repos
 
